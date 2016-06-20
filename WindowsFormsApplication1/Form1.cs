@@ -16,5 +16,11 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+        public void ooo()
+        {
+            MessageBox.Show("jshvskdjhfv");
+
+        }
+        
     }
 }
